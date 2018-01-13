@@ -1,4 +1,4 @@
 class Dog
   def dog
-    Fido = dog.new
+    dog.new = "Fido"
   end
