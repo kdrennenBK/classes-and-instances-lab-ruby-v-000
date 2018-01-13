@@ -1,4 +1,4 @@
 class Dog
-  # def dog(name)
-  #   dog_name = "#{name}"
+  def fido
+    fido = dog.new
   end
