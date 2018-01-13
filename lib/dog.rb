@@ -1,4 +1,4 @@
 class Dog
-  def dog("Fido", "Snoopy", "Lassie")
+  def dog[]
     dog = "#{Fido}"
   end
